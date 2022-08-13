@@ -54,13 +54,15 @@ You can evaluate your model and output gif as well as videos following this [doc
 Our pretrained model in the paper can be found here: [Baidu Cloud](https://pan.baidu.com/s/1kzkLpghqwQFhU7pjrDHKlA?pwd=y61z) or [Google Drive](https://drive.google.com/drive/folders/1uYEHfMVNThp5gTKyUlNVw9Xb895Uo_LL?usp=sharing)
 They can also be found in the [Github Releases tab](https://github.com/MasterHow/EventPointPose/releases).
 
+[![Video](event_point_pose.jpg?raw=true)](https://yangkailun.com/videos/eventpointpose.mp4 "Video Demo")
+
 ## Citation
 If you find our project helpful in your research, please cite with:
 ```
-@article{chen2022EPP,
+@inproceedings{chen2022EPP,
   title={Efficient Human Pose Estimation via 3D Event Point Cloud},
   author={Chen, Jiaan and Shi, Hao and Ye, Yaozu and Yang, Kailun and Sun, Lei and Wang, Kaiwei},
-  journal={arXiv preprint arXiv:2206.04511},
+  booktitle={2022 International Conference on 3D Vision (3DV)},
   year={2022}
 }
 ```
