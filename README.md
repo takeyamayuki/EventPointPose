@@ -2,6 +2,8 @@
 The official Pytorch implementations of [Efficient Human Pose Estimation via 3D Event Point Cloud](https://arxiv.org/abs/2206.04511). 
 We propose a novel 3D event point cloud based paradigm for human pose estimation and achieve efficient results on DHP19 dataset.
 
+[Project page](https://bestchen97.github.io/EventHumanPerception/) and [paper](https://arxiv.org/abs/2206.04511).
+
 <img src='/srcimg/pipeline.png'>
 
 ## Dependencies
