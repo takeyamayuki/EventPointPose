@@ -6,6 +6,7 @@ import argparse
 import torch
 import sys
 import torch.cuda
+sys.path.append("../")
 from models import Pose_PointNet, Pose_DGCNN, Pose_PointTransformer
 
 
